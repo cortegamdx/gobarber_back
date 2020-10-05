@@ -3,7 +3,7 @@
   "host":"localhost",
   "port": 5432,
   "username":"postgres",
-  "password":"assoc04309010",
+  "password":"password",
   "database":"gostack_gobarber",
   "entities":[
     "./src/models/*.ts"
